@@ -7,3 +7,5 @@ Give your workout preferences:
 - Any emphases? (small calves, more biceps, etc., or none)
 - How long do you want your workout?
 - What are your workout goals? (Tone, build mass, strength training, etc.)
+
+It will spit out a workout for you. Boom. Easy. Done.
